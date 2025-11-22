@@ -43,6 +43,4 @@ Task 2 – Bank Churn Prediction (Future Interns ML Internship)
 
 ---
 
-## ▶ Run the Dashboard Locally
 
-### 1️⃣ Install dependencies  
