@@ -26,10 +26,8 @@ Task 2 – Bank Churn Prediction (Future Interns ML Internship)
 ---
 
 ## 🌐 Live Dashboard Link  
-(Add your link here after deploying on Streamlit Cloud)
+((https://futureml02-84ujpqteowz3unerh4jr4e.streamlit.app/))
 
-Example:  
-https://futureinterns-task2-yourapp.streamlit.app/
 
 ---
 
