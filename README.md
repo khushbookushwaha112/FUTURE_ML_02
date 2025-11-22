@@ -22,3 +22,29 @@ The dashboard allows users to upload their own dataset or make predictions manua
 # FutureInterns_Task2  
 Task 2 – Bank Churn Prediction (Future Interns ML Internship)
 
+
+---
+
+## 🌐 Live Dashboard Link  
+(Add your link here after deploying on Streamlit Cloud)
+
+Example:  
+https://futureinterns-task2-yourapp.streamlit.app/
+
+---
+
+## 📊 Features
+- Clean EDA visualizations  
+- Feature engineering (is_senior, balance_per_product, one-hot encoding)  
+- Machine learning model training  
+- Hyperparameter tuning  
+- Best model selection  
+- Model evaluation with metrics & plots  
+- Explainability using SHAP  
+- Streamlit web app for predictions  
+
+---
+
+## ▶ Run the Dashboard Locally
+
+### 1️⃣ Install dependencies  
